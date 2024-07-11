@@ -17,7 +17,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/news-website.git
+    git clone https://github.com/prathamgarg254/news-website.git
     cd news-website
     ```
 
